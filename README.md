@@ -14,14 +14,24 @@ Prints an odd number of stars (1, 3, 5, ...) to form a pyramid shape.
 🖥️ Sample Output
 If the user enters 5, the output will be:
 
+
+
     *
    ***
   *****
  *******
 *********
 
+
+
+
+
 Concepts Used:
+
 for loop
+
 String multiplication
+
 Input handling
+
 Pattern logic
